@@ -1,0 +1,11 @@
+{
+  "name": "loadtest",
+  "private": true,
+  "scripts": {
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.0.0",
+    "sql.js": "^1.11.0"
+  }
+}
